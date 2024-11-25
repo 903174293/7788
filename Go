@@ -1,0 +1,103 @@
+Go-关键Env
+go env -w GOPROXY=http://cloudartifact.ipd.hihonor.com/artifactory/goremote/,direct
+go env -w GOPROXY=https://goproxy.cn,direct
+```
+
+windows下编译linux环境下运行的Go
+``` shell
+set CGO_ENABLED=0
+set GOOS=linux
+set GOARCH=amd64
+echo now the CGO_ENABLED:
+ go env CGO_ENABLED
+echo now the GOOS:
+ go env GOOS
+echo now the GOARCH:
+ go env GOARCH
+go build -o name main.go 
+```
+windows下编译windows环境下运行的Go
+``` shell
+set CGO_ENABLED=1
+set GOOS=windows
+set GOARCH=amd64
+echo now the CGO_ENABLED:
+ go env CGO_ENABLED
+echo now the GOOS:
+ go env GOOS
+echo now the GOARCH:
+ go env GOARCH
+```
+
+Go-Zero
+[**Github**](https://github.com/zeromicro/go-zero) 
+[官方文档](https://go-zero.dev/docs/tasks) 
+[解决方案博客](https://learnku.com/blog/kevwan)
+[底层原理博客](https://louyuting.blog.csdn.net/category_8361413.html)
+**基本命令**
+
+	生成API
+```shell
+goctl api go -api *.api -dir ../ --style=goZero
+```
+    
+	生成RPC
+ ```shell
+ goctl rpc protoc *.proto --go_out=. --go-grpc_out=. --zrpc_out=../ --style goZero
+```   
+
+	生成Model
+ ```shell
+goctl model mysql datasource -url="${username}:${passwd}@tcp(${host}:${port})/${dbname}" -table="${tables}"  -dir="${modeldir}" -cache=true --style=goZero
+```   
+
+	GRPC基本命令
+ ```shell
+protoc --go-grpc_out=./ *.proto
+```   
+
+**GRPC调试工具**
+
+   [grpcui](https://github.com/fullstorydev/grpcui)
+ ```shell
+grpcui -plaintext 127.0.0.1:8003
+```   
+   [evants](https://github.com/ktr0731/evans)
+ ```shell
+evans --proto resources.proto repl   https://github.com/ktr0731/evans   
+```   
+   [ptg](https://github.com/crossoverJie/ptg/releases)
+ ```shell
+git clone git@github.com:crossoverJie/ptg.git
+cd ptg
+make pkg-win    
+```
+	本地安装ptg界面工具，需要先安装好Fyne
+ ```
+  https://my.oschina.net/u/4006447/blog/5561959
+  https://developer.fyne.io/api/v2.3/data/validation/
+```
+   [Wireshark](https://mp.weixin.qq.com/s?__biz=Mzg5MTYyNzM3OQ==&mid=2247484266&idx=1&sn=624672bb75251908072931f161be7d8c&chksm=cfcb3176f8bcb860edd532a80af4fd9fad9650bf9e84436cd1e13fa54c8c62bd50b931650584&scene=21#wechat_redirect)
+   [BloomRPC](https://github.com/bloomrpc/bloomrpc)
+   
+   
+**GRPC压测工具ghz** 
+    [GRPC教程](https://github.com/lixd/grpc-go-example)
+    [bilibili-ghz教程](https://www.bilibili.com/video/BV1sG411T7GN/?spm_id_from=333.337.search-card.all.click&vd_source=afb3732053074d788c51351206010d92)
+
+**Go-Zero学习资源**
+	微信公众号
+			微服务实战
+	[Go-Zero-Example](https://github.com/zeromicro/zero-examples)
+			https://github.com/zeromicro/zero-examples
+	[zero-contrib](https://github.com/zeromicro/zero-contrib)
+			https://github.com/zeromicro/zero-contrib
+	[ISSUES](https://github.com/zeromicro/zero-contrib/issues)
+			https://github.com/zeromicro/zero-contrib/issues
+	[Go-Zero-Demo](https://github.com/kougazhang/go-zero-demo)
+			https://github.com/kougazhang/go-zero-demo
+	
+
+  
+
+    
