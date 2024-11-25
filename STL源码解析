@@ -1,0 +1,127 @@
+https://github.com/SilverMaple/STLSourceCodeNote
+
+# 60个GitHub上c/c++学习项目推荐，拎几个出来写进简历（强烈推荐收藏！）
+[https://mp.weixin.qq.com/s/Igc15RXErNXmsjTjkRnVAA](https://mp.weixin.qq.com/s/Igc15RXErNXmsjTjkRnVAA)
+
+
+https://mp.weixin.qq.com/s/ALjE5pbRNHwK9nnSPIbsyw
+
+[https://mp.weixin.qq.com/s/w80s6tpAqqfaBmiFNQkleA](https://mp.weixin.qq.com/s/w80s6tpAqqfaBmiFNQkleA)
+
+https://sourceforge.net/projects/mingw-w64/
+
+[https://linuxtools-rst.readthedocs.io/zh-cn/latest/tool/gdb.html](https://linuxtools-rst.readthedocs.io/zh-cn/latest/tool/gdb.html)
+
+https://cloud.tencent.com/developer/article/2090538
+
+https://apisix.apache.org/zh/blog/2022/01/21/apisix-xrpc-details-and-miltilingual/
+
+https://bbs.huaweicloud.com/blogs/308343
+
+https://mp.weixin.qq.com/s/WZ7a5Hxo5B2QhODCzUv0vg
+
+https://mp.weixin.qq.com/s/lCtclK7luocAQBeadjGZBw
+
+https://github.com/lgd8981289/book_read_quickly
+
+https://www.cnblogs.com/xiaobai-cs/p/16830043.html
+
+**重点关注***
+https://juejin.cn/post/7224765991896252473
+https://www.cnblogs.com/grey-wolf/p/12637730.html
+https://juejin.cn/post/7097203517097508878
+https://www.cnblogs.com/grey-wolf/p/12637730.html
+**GDB调试redis***
+https://emacsist.github.io/2019/08/09/%E4%BD%BF%E7%94%A8gdb%E8%B0%83%E8%AF%95redis/
+**VSCode调试redis***
+https://juejin.cn/post/7097203517097508878
+
+https://blog.csdn.net/qq_45663002/article/details/118931431
+
+https://juejin.cn/post/7038576476341403655?from=search-suggest
+***TCP链接的生命周期***
+https://mp.weixin.qq.com/s/cOXUH8knOomVLGE6YWs9Mg
+**## 什么是Redis？**
+https://gitcode.com/gh_mirrors/re/redis/overview?utm_source=csdn_github_accelerator&isLogin=null
+***C++教程***
+https://www.runoob.com/cplusplus/cpp-stl-tutorial.html
+**GDB5小时教程**
+https://www.cnblogs.com/lvdongjie/p/8994092.html
+**CMake教程**
+https://mp.weixin.qq.com/s/PqeHrLceXm3VG4X88YVrbw
+# GDB调试指南(入门，看这篇够了)
+https://blog.csdn.net/chen1415886044/article/details/105094688
+gcc -g main.c -o main
+https://mp.weixin.qq.com/s/ALjE5pbRNHwK9nnSPIbsyw
+# c++内存分析工具Valgrind
+https://mp.weixin.qq.com/s?__biz=MzkzMTY3NDYwNQ==&mid=2247484521&idx=1&sn=c95c39bf0a6d7e57b6232c9f19704cea&chksm=c26624ebf511adfde2bde7daad01da16934372d9f4fcaa0f11f89ecf29d019d8216f3052c8ad&cur_album_id=3386784075163844618&scene=189#wechat_redirect
+https://bbs.huaweicloud.com/blogs/308343
+https://cloud.tencent.com/developer/article/2090538
+
+# 使用VS Code调试Redis源码
+https://juejin.cn/post/7097203517097508878
+# C++实战项目推荐
+https://pokeai.cn/79.html
+# 全网搜集C/C++入门练手项目实战，包含100+经典项目，大厂面经，学习视频，推荐书籍，面试题/算法题
+https://github.com/0voice/introduce_c-cpp_manual
+
+## Redis makefile详解
+https://www.cnblogs.com/ym65536/p/7077216.html
+# cmake学习资料总结
+https://blog.csdn.net/qq_28584889/article/details/97800098
+# CMake 入门实战
+https://www.hahack.com/codes/cmake/
+
+# 如何在 VSCode 去调试 Redis源码
+https://blog.csdn.net/YopenLang/article/details/131366525
+
+## 理解 C++ 中的头文件和源文件的作用
+https://www.runoob.com/w3cnote/cpp-header.html
+# [C++宏定义详解](https://www.cnblogs.com/fnlingnzb-learner/p/6903966.html "发布于 2017-05-25 15:14")
+https://www.cnblogs.com/fnlingnzb-learner/p/6903966.html
+
+## C++知识积累
+https://mp.weixin.qq.com/s/dw5xHH44h27A6467NXrmLA
+https://mp.weixin.qq.com/s/YKokeFYCVXxT7a40Q4nOrQ
+
+## C++ 宏定义 #define 和常量 const 的区别
+https://www.runoob.com/note/12963
+https://mp.weixin.qq.com/s/uEIxbhMMIVG6rYjJcFvaxQ
+# const还是#define？资深开发者都是这样选择的！
+https://mp.weixin.qq.com/s/uEIxbhMMIVG6rYjJcFvaxQ
+
+## 金字塔原理
+https://xmind.cn/blog/minto-pyramid-principle/
+https://blog.csdn.net/peter7_zhang/article/details/111940115
+
+# C++ 高质量编程：内存泄漏检测方法与实践
+https://mp.weixin.qq.com/s/dHsTCTVJ6q80Btg5XcTFJQ
+
+# bazel使用教程
+https://blog.csdn.net/A_L_A_N/article/details/88018718
+
+# 麦肯锡战略化思维
+https://yam.gift/2022/10/23/CogPsy/2022-10-23-Structured-Strategic-Thought/
+
+# Rust vs C++ 深度比较
+https://juejin.cn/post/7152012196086546468
+https://course.rs/practice/intro.html
+
+# [使用CLion在Windows下调试Redis代码](https://segmentfault.com/a/1190000040450975)
+https://segmentfault.com/a/1190000040450975
+
+# CMake与Make最简单直接的区别
+写程序大体步骤为：
+
+1.用编辑器编写源代码，如.c文件。
+
+2.用编译器编译代码生成目标文件，如.o。
+
+3.用链接器连接目标代码生成可执行文件，如.exe。
+
+但如果源文件太多，一个一个编译时就会特别麻烦，于是人们想到，为什么不设计一种类似批处理的程序，来批处理编译源文件呢，于是就有了make工具，它是一个自动化编译工具，你可以使用一条命令实现完全编译。但是你需要编写一个规则文件，make依据它来批处理编译，这个文件就是[makefile](https://so.csdn.net/so/search?q=makefile&spm=1001.2101.3001.7020)，所以编写makefile文件也是一个程序员所必备的技能。
+
+对于一个大工程，编写makefile实在是件复杂的事，于是人们又想，为什么不设计一个工具，读入所有源文件之后，自动生成makefile呢，于是就出现了cmake工具，它能够输出各种各样的makefile或者project文件,从而帮助程序员减轻负担。但是随之而来也就是编写cmakelist文件，它是cmake所依据的规则。所以在编程的世界里没有捷径可走，还是要脚踏实地的。
+
+所以流程如下：
+![[Pasted image 20241107203906.png]]
