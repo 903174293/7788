@@ -1,0 +1,80 @@
+https://luarocks.org/modules/pintsized/lua-resty-http
+https://github.com/ledgetech/lua-resty-http
+[openresty的使用].(https://blog.csdn.net/m0_37874954/article/details/129860234)
+[idea下配置Lua+OpenResty+Nginx开发环境].(https://blog.csdn.net/lvxinchun/article/details/108100084)
+[Kong 的事件和缓存].(https://cloud.tencent.com/developer/article/1489445)
+[蓝鲸APISIX自动化测试blueking-apigateway-apisix].(https://github.com/TencentBlueKing/blueking-apigateway-apisix/blob/master/src/apisix/ci/Dockerfile.apisix-test-nginx)
+[openresty](https://github.com/openresty/openresty)
+[KubeSphere](http://pekagd-bpit.yun.hihonor.com/workspaces/hihonor "KubeSphere")
+[Lua 包管理工具 Luarocks 详解](https://segmentfault.com/a/1190000003920034)
+[# 如何读懂火焰图？].(https://www.ruanyifeng.com/blog/2017/09/flame-graph.html)
+[# wrk2入门-http性能压测工具总结].(https://blog.csdn.net/ccccsy99/article/details/105958366)
+[# Linux下htop 安装与使用].(https://blog.csdn.net/weixin_40854327/article/details/112683699)
+[perf生成火焰图（无敌总结）](https://www.cnblogs.com/asver/p/13895779.html)
+[# Linux下htop 安装与使用].(https://blog.csdn.net/weixin_40854327/article/details/112683699)
+[极客时间OpenResty].(https://time.geekbang.org/column/article/105639)
+[resty-lock].(https://github.com/openresty/lua-resty-lock#for-cache-locks)
+[# 如何读懂火焰图？].(https://www.ruanyifeng.com/blog/2017/09/flame-graph.html)
+[# Lua pcall及xpcall函数].(https://qinguan.github.io/2018/04/14/lua-pcall-and-xpcall/)
+[# wrk2入门-http性能压测工具总结].(https://blog.csdn.net/ccccsy99/article/details/105958366)
+[# centos7 安装 debuginfo].(https://cloud.tencent.com/developer/article/1197037)
+[# Kong 的事件和缓存].(https://cloud.tencent.com/developer/article/1489445)
+[百战程序员-缓存风暴].(https://www.itbaizhan.com/wiki/9114.html)
+[百战程序员-子请求].(https://www.itbaizhan.com/wiki/9089.html)
+[# openresty 配置模块化].(https://blog.csdn.net/weixin_43931625/article/details/125795056)
+[# Nginx location 正则].(https://www.jianshu.com/p/403bab8fc34d)
+[# 云原生网关 Kong 源码分析].(https://cloudnative.to/blog/kong-source-code-reading/)
+[性能测试工具 wrk 使用教程](https://www.cnblogs.com/quanxiaoha/p/10661650.html)
+[![LuaRocks](https://luarocks.org/static/header_luarocks_name.svg)](https://luarocks.org/)
+[openresty lua-resty-mlcache多级缓存].(https://blog.csdn.net/weixin_43931625/article/details/125849489)
+[# 多级缓存架构设计（四）].(https://blog.csdn.net/qq_39399966/article/details/103136008)
+[# OpenResty + Redis实现IP黑名单].(https://www.maoyingdong.com/nginx-ip-blacklist-based-on-redis/)
+[## 记一次性能调优].(https://cloud.tencent.com/developer/article/1918210)
+[# 高性能web平台【OpenResty入门与实战】*****必读必读必读].(https://blog.csdn.net/qq_42588990/article/details/121787741)
+[# 在线上 Kong 服务进程中实时统计 CPU 和内存用量最高的插件（使用 OpenResty XRay）].(https://blog.openresty.com.cn/cn/kong-plugin-mem-cpu-stats/)
+[lua-resty-worker-events].(https://github.com/Kong/lua-resty-worker-events)
+[【网关开发】4.Openresty 使用events插件进行事件通知](https://www.cnblogs.com/zhaosc-haha/p/16969560.html)
+[lua-luaipc].(https://github.com/siffiejoe/lua-luaipc)
+[# resty 命令行工具演示].(https://blog.openresty.com.cn/cn/resty-cmd/)
+[# 发布你第一个 Luarocks 包].(https://blog.triplez.cn/posts/publish-your-first-luarocks-package/)
+[# Lua 级别 CPU 火焰图简介].(https://blog.openresty.com.cn/cn/lua-cpu-flame-graph/)
+[# 搭建最新版Nginx，保姆级教程！].(https://mp.weixin.qq.com/s/9qnPoLUC01xuu5bCbuJM5g)
+[跟我一起学Makefile].(https://seisman.github.io/how-to-write-makefile/introduction.html)
+Openresty性能优化
+https://read.qq.com/read/1040643197/30?source=m_jump
+ OpenResty + Redis实现IP黑名单
+ https://www.maoyingdong.com/nginx-ip-blacklist-based-on-redis/
+ 多级缓存架构设计
+ https://blog.csdn.net/qq_39399966/article/details/103136008
+ https://blog.csdn.net/weixin_43931625/article/details/125849489
+ https://github.com/thibaultcha/lua-resty-mlcache
+ # nginx 学习7-openresty
+ https://juejin.cn/post/7220611631574433829
+[openresty](https://github.com/openresty)/**[lua-nginx-module](https://github.com/openresty/lua-nginx-module)**
+###### HttpOnly是怎么回事？
+https://cloud.tencent.com/developer/article/1525563
+# nginx proxy_request_buffering 
+https://juejin.cn/s/nginx%20proxy_request_buffering
+# 云原生网关 APISIX 核心流程源码分析与进化方向思考
+https://cloudnative.to/blog/apisix-source-code-reading/#71-%E8%B7%AF%E7%94%B1%E6%9E%84%E5%BB%BA
+
+[jason_yang](https://juejin.cn/user/2972704795802653/posts)
+
+# [Apisix 的负载均衡实现](https://yuweizzz.github.io/post/how_apisix_implements_load_balancing/)**
+
+[ 一致性哈希负载均衡算法的探讨].(https://www.cnkirito.moe/consistent-hash-lb/)
+账号名称 资产名称 资产类型 资产IP 项目名称 口令发放方式 明文口令 root agw-builder-de01 Linux [172.21.8.3](http://172.21.8.3) 应用网关服务 明文发放 5k4n#Tt2B##JoG ubuntu agw-builder-de01 Linux [172.21.8.3](http://172.21.8.3) 应用网关服务 明文发放 B23SZ7qHfb_#n_
+DP-CP包有什么区别？
+
+常用监控平台地址：
+1.https://aiops-uat.test.hihonor.com/o/bk_monitorv3/?bizId=73#/performance/detail/10.70.129.18-0
+2.https://aiops-uat.test.hihonor.com/o/bk_monitorv3/?bizId=659#/performance/detail/10.70.96.30-0
+3.https://aiops-uat.test.hihonor.com/o/bk_monitorv3/?bizId=74#/performance/detail/10.69.187.101-0
+云服务监控大屏
+[https://aiopsinner-drcn.cloud.hihonor.com/grafana/d/4fmyEyLVz1/agwjian-kong?orgId=1](https://aiopsinner-drcn.cloud.hihonor.com/grafana/d/4fmyEyLVz1/agwjian-kong?orgId=1) 
+低保真地址：
+https://phoenix.hihonor.com/cardbuilder/#/uidesigner/1681357406929?pageId=1705032783052731&token=81
+
+
+
+
