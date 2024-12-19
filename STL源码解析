@@ -64,6 +64,7 @@ https://juejin.cn/post/7097203517097508878
 https://pokeai.cn/79.html
 # 全网搜集C/C++入门练手项目实战，包含100+经典项目，大厂面经，学习视频，推荐书籍，面试题/算法题
 https://github.com/0voice/introduce_c-cpp_manual
+https://mp.weixin.qq.com/s/jR6tsPCZm-Yxb_kK6LlXUg
 
 ## Redis makefile详解
 https://www.cnblogs.com/ym65536/p/7077216.html
@@ -72,6 +73,7 @@ https://blog.csdn.net/qq_28584889/article/details/97800098
 https://www.ruanyifeng.com/blog/2015/02/make.html
 # CMake 入门实战
 https://www.hahack.com/codes/cmake/
+https://mp.weixin.qq.com/s/jR6tsPCZm-Yxb_kK6LlXUg
 
 # 如何在 VSCode 去调试 Redis源码
 https://blog.csdn.net/YopenLang/article/details/131366525
@@ -97,11 +99,19 @@ https://blog.csdn.net/peter7_zhang/article/details/111940115
 
 # C++ 高质量编程：内存泄漏检测方法与实践
 https://mp.weixin.qq.com/s/dHsTCTVJ6q80Btg5XcTFJQ
+https://github.com/0voice/cpp_new_features?tab=readme-ov-file
+https://learn-cpp.guyutongxue.site/appendix/cli.html
+https://github.com/0voice/cpp_new_features/blob/main/C%2B%2B%20%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B%EF%BC%8841%E8%AF%BE%E6%97%B6%EF%BC%89%20-%20%E9%98%BF%E9%87%8C%E4%BA%91%E5%A4%A7%E5%AD%A6.md
+# C++ 教程（最新、最全、3.5万字总结），强烈建议收藏！！！
+https://blog.csdn.net/qq_44859843/article/details/131245655
 
 # bazel使用教程
 https://blog.csdn.net/A_L_A_N/article/details/88018718
 
 # 麦肯锡战略化思维
+https://yam.gift/2022/10/23/CogPsy/2022-10-23-Structured-Strategic-Thought/
+
+# 《麦肯锡战略化思维》读书笔记
 https://yam.gift/2022/10/23/CogPsy/2022-10-23-Structured-Strategic-Thought/
 
 # Rust vs C++ 深度比较
@@ -111,11 +121,25 @@ https://course.rs/practice/intro.html
 # [使用CLion在Windows下调试Redis代码](https://segmentfault.com/a/1190000040450975)
 https://segmentfault.com/a/1190000040450975
 
+## Module ngx_http_upstream_module
+https://nginx.org/en/docs/http/ngx_http_upstream_module.html
+
 ## Kvrocks源码阅读
 https://gitee.com/zhouwd/kvrocks/blob/cluster-intro/docs/source-code-overview.CN.md
 
 # Kvrocks 集群方案简介
 https://github.com/apache/kvrocks/wiki/Kvrocks-%E9%9B%86%E7%BE%A4%E6%96%B9%E6%A1%88%E7%AE%80%E4%BB%8B
+# Redis 问题排查与 QPS 评估
+https://mp.weixin.qq.com/s/JJhwEJTwXadXfF3fPjBdiQ
+
+# 解放双手！根据代码自动生成时序图，这款IDEA插件真香！
+https://juejin.cn/post/7134877521182457869
+
+# gcc/g++/gdb 的正确打开方式：从编译到调试，一次搞懂！
+https://mp.weixin.qq.com/s/5rP3C3dmSOce6CuJ4z5WKQ
+
+# 从新手到高手：如何用VSCode打造极致C/C++开发环境，颠覆你的编程体验！
+https://mp.weixin.qq.com/s/41iPU6i9oJwcLK_Gte6OVw
 
 # CMake与Make最简单直接的区别
 写程序大体步骤为：
