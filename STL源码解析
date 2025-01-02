@@ -31,14 +31,20 @@ https://juejin.cn/post/7224765991896252473
 https://www.cnblogs.com/grey-wolf/p/12637730.html
 https://juejin.cn/post/7097203517097508878
 https://www.cnblogs.com/grey-wolf/p/12637730.html
+https://wenfh2020.com/2020/01/05/redis-gdb/
+https://www.cnblogs.com/chengliangsheng/p/3597010.html
 **GDB调试redis***
 https://emacsist.github.io/2019/08/09/%E4%BD%BF%E7%94%A8gdb%E8%B0%83%E8%AF%95redis/
+https://blog.csdn.net/chen1415886044/article/details/105094688
 **VSCode调试redis***
 https://juejin.cn/post/7097203517097508878
 
 https://blog.csdn.net/qq_45663002/article/details/118931431
 
 https://juejin.cn/post/7038576476341403655?from=search-suggest
+# GCC 优化级别
+https://cloud.tencent.com/developer/article/1524971
+
 ***TCP链接的生命周期***
 https://mp.weixin.qq.com/s/cOXUH8knOomVLGE6YWs9Mg
 **## 什么是Redis？**
@@ -131,12 +137,19 @@ https://gitee.com/zhouwd/kvrocks/blob/cluster-intro/docs/source-code-overview.CN
 https://github.com/apache/kvrocks/wiki/Kvrocks-%E9%9B%86%E7%BE%A4%E6%96%B9%E6%A1%88%E7%AE%80%E4%BB%8B
 # Redis 问题排查与 QPS 评估
 https://mp.weixin.qq.com/s/JJhwEJTwXadXfF3fPjBdiQ
+# Redis cluster 扩容缩容重新分片
+https://blog.csdn.net/womenyiqilalala/article/details/105144288
 
 # 解放双手！根据代码自动生成时序图，这款IDEA插件真香！
 https://juejin.cn/post/7134877521182457869
 
 # gcc/g++/gdb 的正确打开方式：从编译到调试，一次搞懂！
 https://mp.weixin.qq.com/s/5rP3C3dmSOce6CuJ4z5WKQ
+
+## Kafka 基础
+[](https://github.com/Snailclimb/JavaGuide/blob/main/docs/high-performance/message-queue/kafka-questions-01.md#kafka-%E5%9F%BA%E7%A1%80)
+https://github.com/Snailclimb/JavaGuide/blob/main/docs/high-performance/message-queue/kafka-questions-01.md
+https://blog.csdn.net/2401_84183451/article/details/137662518
 
 # 从新手到高手：如何用VSCode打造极致C/C++开发环境，颠覆你的编程体验！
 https://mp.weixin.qq.com/s/41iPU6i9oJwcLK_Gte6OVw
